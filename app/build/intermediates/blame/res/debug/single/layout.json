@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score.xml",
+        "source": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\src\\main\\res\\layout\\score.xml"
+    },
+    {
+        "merged": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_seekbar.xml",
+        "source": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\src\\main\\res\\layout\\preferences_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\Dev-Sources\\BasicSamples\\FreeFallBalls\\app\\src\\main\\res\\layout\\help.xml"
+    }
+]
